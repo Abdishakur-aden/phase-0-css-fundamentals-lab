@@ -4,3 +4,17 @@ body {
   margin: 0;
   text-align: center;
 }
+.contact, .correspondence, .links, .follow {
+  display: inline-block;
+  width: 450px;
+  height: auto;
+}
+#details {
+  background-color: red;
+}
+nav {
+  display: inline-block;
+}
+nav a {
+  background-color: grey;
+}
